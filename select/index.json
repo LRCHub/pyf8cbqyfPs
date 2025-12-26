@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "ANTIFRAGILE (Japanese ver.)",
+  "base_artist": "LE SSERAFIM",
+  "createdAt": "2025-12-26T11:46:01.800033Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ANTIFRAGILE - Japanese ver.",
+      "artist": "LE SSERAFIM",
+      "has_synced": true,
+      "path": "select/01_ANTIFRAGILE_-_Japanese_ver._LE_SSERAFIM.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Antifragile [Japanese ver.]",
+      "artist": "LE SSERAFIM",
+      "has_synced": true,
+      "path": "select/02_Antifragile_[Japanese_ver.]_LE_SSERAFIM.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ANTIFRAGILE -Japanese ver.-",
+      "artist": "LE SSERAFIM",
+      "has_synced": true,
+      "path": "select/03_ANTIFRAGILE_-Japanese_ver.-_LE_SSERAFIM.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ANTIFRAGILE (Japanese ver.) - ANTIFRAGILE (Japanese Version)",
+      "artist": "LE SSERAFIM",
+      "has_synced": true,
+      "path": "select/04_ANTIFRAGILE_(Japanese_ver.)_-_ANTIFRAGILE_(Japanese_Version)_LE_SSERAFIM.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ANTIFRAGILE (Japanese ver.)",
+      "artist": "LE SSERAFIM",
+      "has_synced": true,
+      "path": "select/05_ANTIFRAGILE_(Japanese_ver.)_LE_SSERAFIM.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ANTIFRAGILE - Japanese ver.",
+      "artist": "LE SSERAFIM",
+      "has_synced": false,
+      "path": "select/pl_01_ANTIFRAGILE_-_Japanese_ver._LE_SSERAFIM.txt"
+    }
+  ]
+}
